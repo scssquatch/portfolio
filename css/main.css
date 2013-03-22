@@ -64,8 +64,9 @@ body {
 .criterion {
   position: fixed;
   width: 255px;
-  margin-top: 120px;
+  margin-top: 150px;
   margin-left: -70px;
+  font-size: 17px;
 }
 
 .logo {
@@ -110,7 +111,7 @@ a:visited {
   padding: 15px;
   margin-top: 50px;
   margin-left: 300px;
-  min-height: 75%;
+  min-height: 78%;
   text-align: center;
   height: auto;
   width: 800px;
